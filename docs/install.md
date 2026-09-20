@@ -312,7 +312,6 @@ agent-reach configure groq-key
 > ```bash
 > uvx mcp-server-linkedin@latest --login
 > ```
-
 > 浏览器弹出后手动登录 LinkedIn；登录态会保存到 `~/.linkedin-mcp/profile/`。无桌面的服务器需在 VNC 等可见桌面中运行同一条登录命令。
 >
 > 详见 https://github.com/stickerdaniel/linkedin-mcp-server
